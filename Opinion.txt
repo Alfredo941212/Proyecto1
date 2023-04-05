@@ -1,0 +1,10 @@
+En mi experiencia con este proyecto es algo nuevo ya que nunca he trabajado con nuevos temas como el uso del css y github
+para mi lo que me gusto fue mi propio diseño de la pagina ya que al decir, como nos aconsejaron para elejir el tipo de color,
+imagenes, todo al aire libre, por ejemplo yo decidí hacer una pagina de una tienda de alimentos inspirandome en el lugar de donde trabajo
+ya que ahi la gente se deica al campo, me gustó tambien la forma de mainpular una teiqueta, agregar los temas como color,ancho,largo, medidas 
+de las letrar,etc.
+Lo que no megusto fúe que algunas etiquetas cuestan en darle forma por ejemplo en mis productos que tengo en la pagina principal
+tambien el tiempo en mi caso ya que tengo muchas resposabilidades pero busque en un momento para avanzar com este proyecto, me facilito usar las 
+etiquetas con el uso de los selectores principal de clase y lo que me costó mas trabajo es el uso del modelode layout moderno, ademas de usar 
+correctamente github para crear repositorios.
+ 
